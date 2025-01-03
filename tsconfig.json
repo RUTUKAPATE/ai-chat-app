@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "app/Services/ChatFaceData.tsx", "app/Services/ChatFaceData.jsx"  ]
+, "app/Services/ChatFaceData.js", "app/Services/ChatFaceData.jsx", "app/Pages/ChatScreen.js", "app/Pages/HomeScreen.js", "app/index.js" ,"app/Services/GlobalApi.js", "app/Navigation/HomeScreenNavigation.js"  ]
 }
